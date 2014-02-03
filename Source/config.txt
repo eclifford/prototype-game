@@ -1,0 +1,6 @@
+// Prototype config file
+//////////////////////////////////////////////////
+
+Width:		1600
+Height:		1200
+Bitdepth:	32
